@@ -1,3 +1,3 @@
 # rsschool-cv
 [# rsschool-cv-cv](https://Maksim19995.github.io/rsschool-cv/cv)
-[# rsschool-cv](https://Maksim19995.github.io/rsschool-cv/index.html)
+[# rsschool-cv]([https://Maksim19995.github.io/rsschool-cv/index.html](https://github.com/Maksim19995/rsschool-cv/blob/rsschool-cv-html/index.html)
